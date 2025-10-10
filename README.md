@@ -29,5 +29,4 @@ The Hardware Stock Management System is a comprehensive solution for tracking an
 
 ## Setup Instructions
 
-1. Clone the repository to your local machine.
-   git clone https://github.com/nsewmini/Stock_System.git
+
